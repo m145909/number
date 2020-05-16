@@ -1,0 +1,8 @@
+---
+applications:
+- name: number
+  random-route: true
+  instances: 3
+  memory: 128M
+  disk_quota: 256M
+  timeout: 60
